@@ -1,0 +1,25 @@
+Date,Month,Effort_Hours,Focus_Area,Learning_Type,Productivity_Score,Stress_Level,Outcome_Type,Experience_Tag,Highlight,Reflection
+05-01-2025,January,18,SQL Basics,Theory,3,2,Neutral,Learning,Restarted SQL journey,Starting slow but steady
+22-01-2025,January,22,Python Basics,Theory,3.2,2.3,Neutral,Learning,Python fundamentals,Foundations matter
+08-02-2025,February,24,SQL Queries,Practice,3.8,2.8,Win,Mini Project,Wrote complex queries,Practice builds confidence
+25-02-2025,February,26,Python Practice,Practice,4,3,Win,Mini Project,Built scripts,Hands-on > theory
+10-03-2025,March,28,Data Analysis,Theory,3.5,3.5,Neutral,Learning,Studied analytics concepts,Understanding takes time
+26-03-2025,March,30,Python Project,Practice,4.2,3.2,Win,Project,Completed mini project,Projects reinforce learning
+09-04-2025,April,32,Internship Prep,Practice,3.8,3.8,Neutral,Preparation,Resume & basics prep,Consistency is key
+24-04-2025,April,34,SQL Revision,Revision,4.1,3.4,Win,Learning,Revised SQL,Revision improves clarity
+07-05-2025,May,36,ML Basics,Theory,3.6,4,Neutral,Learning,Started ML,Complex topics need patience
+21-05-2025,May,35,ML Practice,Practice,4,4.1,Win,Project,Applied ML concepts,Application brings clarity
+06-06-2025,June,12,None,None,2,4.8,Loss,Burnout,Felt overwhelmed,Rest is productive
+22-06-2025,June,10,None,None,1.8,5,Loss,Burnout,Learning break,Recovery is necessary
+08-07-2025,July,18,Skill Revision,Revision,2.8,4.2,Neutral,Recovery,Slow restart,Restarting is progress
+26-07-2025,July,22,Python Practice,Practice,3.2,3.6,Neutral,Recovery,Gradual consistency,Momentum builds slowly
+05-08-2025,August,34,Interview Prep,Practice,3.9,4,Loss,Rejection,Interview not cleared,Failures show gaps
+23-08-2025,August,36,Skill Gaps,Practice,4.1,3.4,Win,Learning,Worked on weak areas,Awareness leads to growth
+09-09-2025,September,40,Power BI,Practice,4.6,3.1,Win,Project,Built dashboards,Visualization boosts confidence
+24-09-2025,September,42,Data Visualization,Practice,4.8,2.9,Win,Project,Improved dashboard,Hands-on accelerates growth
+06-10-2025,October,38,Advanced SQL,Practice,4.7,2.6,Win,Learning,Optimized queries,Depth > breadth
+22-10-2025,October,40,Analytics Project,Practice,4.9,2.4,Win,Project,Completed end-to-end project,Real projects matter
+08-11-2025,November,36,Revision,Revision,4.2,3,Neutral,Learning,Consolidated learning,Review strengthens base
+26-11-2025,November,38,Mock Interviews,Practice,4.4,3.2,Win,Experience,Improved confidence,Preparation reduces anxiety
+05-12-2025,December,42,Year Review,Reflection,4.3,2.5,Neutral,Reflection,Reviewed the year,Reflection gives clarity
+20-12-2025,December,45,Portfolio Building,Practice,4.8,2.2,Win,Project,Career Wrapped built,Storytelling with data matters
