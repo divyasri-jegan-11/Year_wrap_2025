@@ -65,6 +65,20 @@ This dashboard serves as a visual “Career Wrapped” for the year.
 ---
 
 ## Project Structure
+Year-WrapUp-Analysis
+
+wrap_2025/
+|
+├── data/
+│ └── career_wrapped_2025_max_30_rows.csv
+│
+├── analysis/
+│ └── career_wrapped_analysis.ipynb
+│
+├── visuals/
+│ └── dashboard_screenshots/
+│
+└── README.md
 
 ---
 
@@ -91,4 +105,5 @@ It was about ending the year with **clarity instead of assumptions** — using d
 - Downloadable Wrapped summaries
 
 ---
+
 
