@@ -1,8 +1,8 @@
-# Career Wrapped 2025 📊  
+# Year Wrapped 2025 📊  
 *A personal year-in-review through data analytics*
 
 ## Overview
-Career Wrapped 2025 is a personal data analytics project where I turned my year into data to better understand how I worked, learned, and grew across 2025.
+Year Wrapped 2025 is a personal data analytics project where I turned my year into data to better understand how I worked, learned, and grew across 2025.
 
 Inspired by the idea of yearly wrap-ups (like Spotify Wrapped), this project focuses not on highlights alone, but on **patterns** — effort, productivity, stress, burnout, recovery, wins, and losses.
 
@@ -51,7 +51,7 @@ The Power BI dashboard visualizes:
 - Dominant focus areas across the year
 - Wins, losses, and key moments
 
-This dashboard serves as a visual “Career Wrapped” for the year.
+This dashboard serves as a visual “Year Wrapped” for the year.
 
 ---
 
@@ -67,19 +67,13 @@ This dashboard serves as a visual “Career Wrapped” for the year.
 ## Project Structure
 Year-WrapUp-Analysis
 
-wrap_2025/
-├── data/ 
-  └──wrapped_dataset.csv
-├── analysis/
- └──wrapped_analysis.ipynb
- └──cwrapped_dataset.csv        
-├── visuals/
- └──wrap.pbix
- └──area.png
-├── README.md    
+├── README.md  
+├── wrapup_dataset.csv  
+├── year_wrapped_2025.csv         
+├── wrapped_analysis.ipynb                 
+├── wrap.pbix   
 └── LICENSE   
-
-
+ 
 ---
 
 ## Framework for Others
@@ -105,7 +99,5 @@ It was about ending the year with **clarity instead of assumptions** — using d
 - Downloadable Wrapped summaries
 
 ---
-
-
 
 
