@@ -69,10 +69,14 @@ Year-WrapUp-Analysis
 
 wrap_2025/
 ├── data/ 
-├── amazon_sales_data.csv  
-├── amazon_clean.csv         
-├── Amazon.ipynb                 
-├── Dashboard.png    
+  └──wrapped_dataset.csv
+├── analysis/
+ └──wrapped_analysis.ipynb
+ └──cwrapped_dataset.csv        
+├── visuals/
+ └──wrap.pbix
+ └──area.png
+├── README.md    
 └── LICENSE   
 
 
@@ -101,6 +105,7 @@ It was about ending the year with **clarity instead of assumptions** — using d
 - Downloadable Wrapped summaries
 
 ---
+
 
 
 
